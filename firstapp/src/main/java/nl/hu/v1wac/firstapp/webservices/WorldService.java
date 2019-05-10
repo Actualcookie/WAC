@@ -1,11 +1,11 @@
-package hu.v1wac.firstapp.webservices;
+package nl.hu.v1wac.firstapp.webservices;
 
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
-import hu.v1wac.firstapp.model.Country;
+import nl.hu.v1wac.firstapp.model.Country;
 
 public class WorldService {
 	private List<Country> allCountries = new ArrayList<Country>();

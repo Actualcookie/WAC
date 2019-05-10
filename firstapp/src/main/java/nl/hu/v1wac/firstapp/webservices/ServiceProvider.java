@@ -1,4 +1,4 @@
-package hu.v1wac.firstapp.webservices;
+package nl.hu.v1wac.firstapp.webservices;
 
 /*import java.io.IOException;
 import java.io.PrintWriter;
@@ -17,8 +17,8 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;*/
 import javax.ws.rs.*;
 
-import hu.v1wac.firstapp.model.Country;
-import hu.v1wac.firstapp.webservices.WorldService;
+import nl.hu.v1wac.firstapp.model.Country;
+import nl.hu.v1wac.firstapp.webservices.WorldService;
 
 
 @Path("/countries")
